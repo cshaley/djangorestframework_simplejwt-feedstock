@@ -23,6 +23,8 @@ requirements:
   run:
     - python
     - django >=1.8
+    - djangorestframework
+    - pyjwt
 
 test:
   imports:
